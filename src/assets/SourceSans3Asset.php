@@ -1,6 +1,8 @@
 <?php
 namespace yii\SourceSans3\assets;
 
+use yii\web\AssetBundle;
+
 class SourceSans3Asset extends AssetBundle
 {
     public $sourcePath = __DIR__ . '/dist';

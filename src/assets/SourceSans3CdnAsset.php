@@ -1,6 +1,8 @@
 <?php
 namespace yii\SourceSans3\assets;
 
+use yii\web\AssetBundle;
+
 class SourceSans3CdnAsset extends AssetBundle
 {
     public $css = [
