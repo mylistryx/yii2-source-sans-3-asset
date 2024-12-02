@@ -1,7 +1,7 @@
-Yii2 OverlayScrollbars Change Log
+Yii2 Source Sans 3 font Change Log
 ===================
 
-2.10.1 at 02.12.2024 First release
+1.0.0 First release
 ------------------------
 
-- First public release based on `https://github.com/KingSora/OverlayScrollbars` sources
+- First public release
